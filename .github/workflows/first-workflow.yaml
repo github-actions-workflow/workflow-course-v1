@@ -15,4 +15,4 @@ jobs:
     runs-on: windows-latest
     steps:
       - name: get ip address
-        run: ipcconfig
+        run: ipconfig
